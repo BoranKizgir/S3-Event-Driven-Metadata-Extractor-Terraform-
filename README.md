@@ -1,6 +1,7 @@
 # S3-Event-Driven-Metadata-Extractor-Terraform-
+
 Mimari Özellikler
-Infrastructure as Code: Tüm altyapı Terraform (v1.0+) kullanılarak modüler ve yönetilebilir şekilde kurgulandı.
+Infrastructure as Code: Tüm altyapı Terraform kullanılarak modüler ve yönetilebilir şekilde kurgulandı.
 
 Event-Driven: S3 Bucket Notification aracılığıyla Lambda tetiklenmesi sağlandı.
 
